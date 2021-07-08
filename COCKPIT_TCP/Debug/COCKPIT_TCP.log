@@ -1,0 +1,4 @@
+﻿  COCKPIT_TCP.cpp
+c:\users\boqie zhang\source\repos\cockpit_tcp\cockpit_tcp\cockpit_tcp.cpp(299): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\boqie zhang\source\repos\cockpit_tcp\cockpit_tcp\cockpit_tcp.cpp(309): warning C4101: “dataLength”: 未引用的局部变量
+  COCKPIT_TCP.vcxproj -> C:\Users\Boqie Zhang\source\repos\COCKPIT_TCP\Debug\COCKPIT_TCP.exe
